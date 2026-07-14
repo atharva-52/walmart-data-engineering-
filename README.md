@@ -111,5 +111,4 @@ dbt test          # runs generic + singular data tests
 - Add data freshness checks on bronze sources
 - Extend fact table grain to support returns/refunds if present in source data
 
-## Acknowledgements
-Project inspired by the Walmart Data Engineering tutorial series (Airflow + dbt + Databricks) by Ansh Lamba.
+
